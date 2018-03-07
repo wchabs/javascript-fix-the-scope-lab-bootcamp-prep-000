@@ -30,5 +30,5 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()
 theFunk = theFunk()
 
-console.log(theFunk);
-console.log(typeof(theFunk))
+//console.log(theFunk);
+//console.log(typeof(theFunk))
