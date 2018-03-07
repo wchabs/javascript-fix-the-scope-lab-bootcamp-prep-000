@@ -30,4 +30,4 @@ var funkyFunction = function() {
 var theFunk = funkyFunction()
 
 console.log(theFunk);
-typeof(theFunk)
+console.log(typeof(theFunk))
